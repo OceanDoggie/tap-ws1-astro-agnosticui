@@ -32,9 +32,9 @@ To start a Github Codespace to see previews of your changes, do the following (a
     ![Ready to develop](./Picture5.png)
 
 
-## Create a new branch to make your changes 👀 
+## Optional, skip if you have a fork: Create a new branch to make your changes 👀 
 
-1. Start by creating your own team branch. Click on the fork icon on the VS Code left sidebar 
+1. **If you are not already on a fork,** create your own team branch. Click on the fork icon on the VS Code left sidebar 
 
     ![Ready to develop](./Picture6.png)
 
